@@ -11,3 +11,5 @@ Yooo, I am now on gitHub. So this will be ahead of git. I will go to git and upd
 
 
 And I am seeing whether these new lines are going up to online gitHub. Cool!??
+Yes bro, I am online now at 2:19, I had to push.
+now I am pulling from online onto local.
