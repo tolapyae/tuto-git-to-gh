@@ -1,3 +1,3 @@
-This is inside the new br created on GitHub. So this will be soon merge into master.
+#Gratitude
 
-This line is inserted locally. This will soon be push onto github br 2.
+I am being skillful using git. And it's flexible. I am so amazed for this awsome creation.
