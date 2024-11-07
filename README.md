@@ -6,3 +6,5 @@ Just created upd-tuto-git branch n begun to edit readme file. Lines are being se
 this is inside (master file): now is 1:55 pm
 
 this would be another new line inside master before I created repo on gb : now is 1:57pm
+
+Yooo, I am now on gitHub. So this will be ahead of git. I will go to git and update. first fetch, then merge, the combination of this is call pull. woww, cool!
